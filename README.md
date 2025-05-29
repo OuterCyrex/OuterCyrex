@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+OuterCyrex;A+Passionate+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/OuterCyrex-%F0%9F%94%A5%20Full%20Stack%20Explorer-blueviolet?style=for-the-badge&logo=github" alt="name badge" />
 </h1>
 
 
