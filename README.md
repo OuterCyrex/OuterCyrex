@@ -1,27 +1,16 @@
 <h3 align="center">🛠 技术栈 | Tech Stack</h3>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="50" height="50" style="display:inline-block;margin:0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50" style="display:inline-block;margin:0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="display:inline-block;margin:0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" style="display:inline-block;margin:0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="50" height="50" style="display:inline-block;margin:0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" style="display:inline-block;margin:0 10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="50" height="50" style="display:inline-block;margin:0 8px;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50" style="display:inline-block;margin:0 8px;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="display:inline-block;margin:0 8px;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" style="display:inline-block;margin:0 8px;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="50" height="50" style="display:inline-block;margin:0 8px;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" style="display:inline-block;margin:0 8px;"/>
 </p>
 
 <h1 align="center">
   <img src="https://img.shields.io/badge/OuterCyrex-%F0%9F%94%A5%20Full%20Stack%20Explorer-blueviolet?style=for-the-badge&logo=github" alt="name badge" />
 </h1>
 
-
 <p align="center">
-<a href="https://github.com/OuterCyrex">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=OuterCyrex&show_icons=true&theme=vue" />
-</a>
-
-<a href="https://github.com/OuterCyrex">
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=OuterCyrex&layout=compact&theme=vue" />
-</a>
+<a href="https://github.com/OuterCyrex"><img height="165" src="https://github-readme-stats.shion.dev/api?username=OuterCyrex&show_icons=true&theme=vue" /></a>
+<a href="https://github.com/OuterCyrex"><img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=OuterCyrex&layout=compact&theme=vue" /></a>
 </p>
 
 
